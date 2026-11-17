@@ -1,4 +1,3 @@
-
 # Environment variables and secrets
 .env
 .env.*
@@ -10,14 +9,10 @@ __pycache__/
 .venv/
 venv/
 env/
-
-# Medical source PDF
-data/*.pdf
-
-# Python package metadata
 *.egg-info/
 
-# Extracted medical data
+# Medical source PDF and extracted data
+data/*.pdf
 data/raw/
 data/processed/
 
