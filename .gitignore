@@ -1,0 +1,33 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Medical source PDF
+data/*.pdf
+
+# Python package metadata
+*.egg-info/
+
+# Extracted medical data
+data/raw/
+data/processed/
+
+# Generated vector databases
+vectorstore/
+chroma_db/
+faiss_index/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
