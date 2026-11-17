@@ -141,12 +141,12 @@ The application follows a Retrieval-Augmented Generation workflow.
 
 This project uses the following medical reference as its knowledge source:
 
-**The Gale Encyclopedia of Medicine – 5th Edition (2015)**
+**The Gale Encyclopedia of Medicine – 2nd Edition **
 
 - Editor: Jacqueline L. Longe
 - Publisher: Gale
-- Edition: Fifth Edition
-- Volumes: 9
+- Edition: Second Edition
+- Volume: 1
 
 The encyclopedia provides medical information covering diseases, disorders, symptoms, treatments, medical terminology, and related healthcare topics.
 
