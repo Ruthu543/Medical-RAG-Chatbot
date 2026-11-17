@@ -2,7 +2,7 @@
 
 An AI-powered Medical Question Answering System built using **Retrieval-Augmented Generation (RAG)**, LangChain, Google Gemini, Pinecone, and Flask.
 
-The chatbot retrieves relevant medical information from *The Gale Encyclopedia of Medicine (5th Edition, 2015)* and uses Google Gemini to generate context-aware answers based on the retrieved content.
+The chatbot retrieves relevant medical information from *The Gale Encyclopedia of Medicine (2ND Edition, 2002)* and uses Google Gemini to generate context-aware answers based on the retrieved content.
 
 ---
 
