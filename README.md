@@ -302,17 +302,6 @@ The chatbot retrieves relevant information from the medical knowledge base and g
 
 ---
 
-## 🔮 Future Enhancements
-
-- Display source references and page numbers alongside generated answers.
-- Improve retrieval accuracy using hybrid search and reranking.
-- Add conversation history and multi-turn question answering.
-- Implement user authentication and chat history storage.
-- Add document-level metadata filtering.
-- Deploy the application to a cloud platform.
-- Improve response evaluation using retrieval and generation metrics.
-
----
 
 ## ⚠️ Medical Disclaimer
 
