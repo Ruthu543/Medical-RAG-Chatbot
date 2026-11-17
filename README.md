@@ -146,7 +146,7 @@ This project uses the following medical reference as its knowledge source:
 - Editor: Jacqueline L. Longe
 - Publisher: Gale
 - Edition: Second Edition
-- Volume: 1
+- Volume: Volume 1 (A–B)
 
 The encyclopedia provides medical information covering diseases, disorders, symptoms, treatments, medical terminology, and related healthcare topics.
 
