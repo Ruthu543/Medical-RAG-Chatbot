@@ -253,7 +253,7 @@ GOOGLE_API_KEY=your_google_gemini_api_key
 PINECONE_API_KEY=your_pinecone_api_key
 ```
 
-Use your own API credentials. Never upload the `.env` file to GitHub.
+Use your own API credentials.
 
 ### 7. Configure Pinecone
 
@@ -324,7 +324,7 @@ It is not a substitute for professional medical advice, diagnosis, or treatment.
 
 ## 👩‍💻 Author
 
-**Ruthu**
+**Ruthu Madhavi Kola**
 
 GitHub: [Ruthu543](https://github.com/Ruthu543)
 
