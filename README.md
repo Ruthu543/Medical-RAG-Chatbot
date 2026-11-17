@@ -141,7 +141,7 @@ The application follows a Retrieval-Augmented Generation workflow.
 
 This project uses the following medical reference as its knowledge source:
 
-**The Gale Encyclopedia of Medicine – 2nd Edition **
+**The Gale Encyclopedia of Medicine – 2nd Edition (2002)**
 
 - Editor: Jacqueline L. Longe
 - Publisher: Gale
