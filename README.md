@@ -302,16 +302,13 @@ The chatbot retrieves relevant information from the medical knowledge base and g
 
 ---
 
-## Screenshots
+<h2>Medical Chatbot Interface</h2>
 
-### Medical Chatbot Interface
+<img width="1894" alt="Medical Chatbot Interface" src="screenshots/chatbot-interface.png" />
 
-# [Medical Chatbot Interface](./screenshots/chatbot-interface.png)
+<h2>Medical Question and Answer</h2>
 
-
-### Medical Question and Answer
-
-# [Medical Response](./screenshots/medical-response.png)
+<img width="1894" alt="Medical Response" src="screenshots/medical-response.png" />
 
 
 
