@@ -305,11 +305,11 @@ The chatbot retrieves relevant information from the medical knowledge base and g
 ## Screenshots
 
 ### Medical Chatbot Interface
-![Medical Chatbot](screenshots/chatbot-interface.png)
+(screenshots/chatbot-interface.png)
 
 
 ### Medical Question and Answer
-![Medical Response](screenshots/medical-response.png)
+(screenshots/medical-response.png)
 
 
 ## ⚠️ Medical Disclaimer
