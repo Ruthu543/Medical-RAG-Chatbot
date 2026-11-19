@@ -311,7 +311,8 @@ The chatbot retrieves relevant information from the medical knowledge base and g
 
 <h2>Medical Question and Answer</h2>
 
-<img width="1894" alt="Medical Response" src="screenshots/medical-response.png" />
+<img width="907" height="416" alt="medical-response png" src="https://github.com/user-attachments/assets/807f4b85-c77c-4896-bd46-0a7ab946db5b" />
+
 
 
 
