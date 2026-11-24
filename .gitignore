@@ -13,16 +13,6 @@ env/
 
 # Medical source PDF and extracted data
 data/*.pdf
-data/raw/
-data/processed/
-
-# Generated vector databases
-vectorstore/
-chroma_db/
-faiss_index/
-
-# Jupyter
-.ipynb_checkpoints/
 
 # Logs
 *.log
